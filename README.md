@@ -15,10 +15,9 @@ education:
 fields_of_interests:
   [
     "Web Development",
+    "Game Development",
     "Machine Learning",
-    "UI/UX",
-    "Game Development"
+    "UI/UX"
   ]
   
-currently_learning: ["Docker, Kubernetes and React Native"]
 hobbies: ["Gaming", "Cinema", "Coding", "Sports", "Comedy"]
