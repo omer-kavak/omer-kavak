@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[image](https://github.com/omer-kavak/omer-kavak/assets/109809986/0a91d162-fe80-44e9-b30a-0bcb05e2a31e)
+https://github.com/omer-kavak/omer-kavak/assets/109809986/0a91d162-fe80-44e9-b30a-0bcb05e2a31e
 
 
 <!--
