@@ -5,15 +5,15 @@
 <h1> 👨🏻‍💻 &nbsp;About Me</h1>
 
 ```yaml
-🚶 name: Ömer Kavak
-🌏 located_in: Istanbul, Turkey
+name: Ömer Kavak
+located_in: Istanbul, Turkey
 
-🎓 education:
+education:
   [
     "Bachelor's in Computer Engineering",
   ]
   
-💡 fields_of_interests:
+fields_of_interests:
   [
     "Web Development",
     "Game Development",
@@ -21,7 +21,7 @@
     "UI/UX"
   ]
   
-👨 hobbies: ["Gaming", "Cinema", "Coding", "Sports", "Comedy"]
+hobbies: ["Gaming", "Cinema", "Coding", "Sports", "Comedy"]
 
 ```
 <h1> 📈 &nbsp;Stats </h1>
