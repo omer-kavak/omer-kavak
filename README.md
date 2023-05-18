@@ -1,10 +1,13 @@
-### Hi there 👋
 
-<img src="https://github.com/omer-kavak/omer-kavak/assets/109809986/c2229853-c7f5-40e7-869d-72073a8df775" alt="Greeting">
+
+<img src="https://github.com/omer-kavak/omer-kavak/assets/109809986/23c7e987-8ac3-4eb7-8e49-5ea8e6be11e9" alt="Greeting">
+
 
 
 
 <!--
+### Hi there 👋
+
 **omer-kavak/omer-kavak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
