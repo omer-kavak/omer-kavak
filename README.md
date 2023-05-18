@@ -1,6 +1,6 @@
 
 
-<img src="https://github.com/omer-kavak/omer-kavak/assets/109809986/12a121c7-3743-4f48-8911-9238a0bba2ac" alt="Greeting">
+<img src="https://github.com/omer-kavak/omer-kavak/assets/109809986/56b45903-82e2-4a39-a8b7-099fec1eeaff" alt="Greeting">
 
 
 <!--
