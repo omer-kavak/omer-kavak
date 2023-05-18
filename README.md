@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<img src="https://github.com/omer-kavak/omer-kavak/assets/109809986/0a91d162-fe80-44e9-b30a-0bcb05e2a31e" alt="Greeting">
+<img src="https://github.com/omer-kavak/omer-kavak/assets/109809986/c2229853-c7f5-40e7-869d-72073a8df775" alt="Greeting">
+
 
 
 <!--
