@@ -57,10 +57,11 @@ hobbies: ["Gaming", "Cinema", "Coding", "Sports", "Comedy"]
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="ts" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>
-        
 </p>
 
+<h1> 📈 &nbsp;My GitHub History!</h1>
 
+![Snake animation](https://github.com/omer-kavak/omer-kavak/blob/output/github-contribution-grid-snake.svg)
 
 <!-- 
 
