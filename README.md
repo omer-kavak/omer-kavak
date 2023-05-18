@@ -1,22 +1,24 @@
-
-
+<!-- **omer-kavak/omer-kavak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <img src="https://github.com/omer-kavak/omer-kavak/assets/109809986/56b45903-82e2-4a39-a8b7-099fec1eeaff" alt="Greeting">
 
+<h2> 👨🏻‍💻 &nbsp; About Me</h2>
 
-<!--
-### Hi there 👋
+```yaml
+name: Ömer Kavak
+located_in: Istanbul, Turkey
 
-**omer-kavak/omer-kavak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...![image](https://github.com/omer-kavak/omer-kavak/assets/109809986/0a91d162-fe80-44e9-b30a-0bcb05e2a31e)
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+education:
+  [
+    "Bachelor's in Computer Engineering",
+  ]
+  
+fields_of_interests:
+  [
+    "Web Development",
+    "Machine Learning",
+    "UI/UX",
+    "Game Development"
+  ]
+  
+currently_learning: ["Docker, Kubernetes and React Native"]
+hobbies: ["Gaming", "Cinema", "Coding", "Sports", "Comedy"]
