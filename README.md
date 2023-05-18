@@ -27,11 +27,9 @@ hobbies: ["Gaming", "Cinema", "Coding", "Sports", "Comedy"]
 
 <h1> 🌎 &nbsp; Let's Connect </h1>
 <p align="center">
-  <a href="https://www.linkedin.com/in/omer-kavak/"><img src="https://github.com/omer-kavak/omer-kavak/assets/109809986/d0c4e1da-f4e6-4a45-8f7b-2219be5c2b18" alt="hackerrank" height="50"/></a>
-  
+  <a href="https://www.linkedin.com/in/omer-kavak/"><img src="" alt="linkedin" height="50"/></a>
+  <a href="https://www.hackerrank.com/omer_kavak"><img src="https://github.com/omer-kavak/omer-kavak/assets/109809986/59532fa0-7512-45c6-ae52-2ee7cf713807" alt="hackerrank" height="50"/></a>
 
-
-  
 </p>
 
 <h1> 📈 &nbsp;Stats </h1>
