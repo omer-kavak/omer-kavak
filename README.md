@@ -26,7 +26,7 @@ hobbies: ["Gaming", "Cinema", "Coding", "Sports", "Comedy"]
 ```
 <h1> 📈 &nbsp;Stats </h1>
 
-| <a href="https://github.com/omer-kavak/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=omer-kavak&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="" /></a> | <a href="https://github.com/omer-kavak/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omer-kavak&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/omer-kavak/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=omer-kavak&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="" /></a> | <a href="https://github.com/omer-kavak/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omer-kavak&layout=compact&theme=transparent&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
@@ -36,7 +36,7 @@ hobbies: ["Gaming", "Cinema", "Coding", "Sports", "Comedy"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="mssql" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="45" height="45"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="45" height="45"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/> 
 </p>
@@ -44,6 +44,8 @@ hobbies: ["Gaming", "Cinema", "Coding", "Sports", "Comedy"]
 
 
 <!-- 
+
+buefy
 
 🌎 🚀
 
