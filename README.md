@@ -61,8 +61,6 @@ hobbies: ["Gaming", "Cinema", "Coding", "Sports", "Comedy"]
 
 <h1> 📈 &nbsp;My GitHub History!</h1>
 
-![Snake animation](https://github.com/omer-kavak/omer-kavak/blob/output/github-contribution-grid-snake.svg)
-
 <!-- 
 
 Stats theme color : buefy
