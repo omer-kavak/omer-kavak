@@ -8,7 +8,7 @@
 name: Ömer Kavak
 located_in: Istanbul, Turkey
 
-education:
+🎓 education:
   [
     "Bachelor's in Computer Engineering",
   ]
