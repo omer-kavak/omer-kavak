@@ -24,13 +24,13 @@ fields_of_interests:
 hobbies: ["Gaming", "Cinema", "Coding", "Sports", "Comedy"]
 
 ```
-<h1> &nbsp;Stats </h1>
+<h1> 📈 &nbsp;Stats </h1>
 
 | <a href="https://github.com/omer-kavak/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=omer-kavak&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Omer's github stats" /></a> | <a href="https://github.com/omer-kavak/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omer-kavak&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
-<h1> 🚀 &nbsp;Some Tools I Have Used and Learned</h1>
+<h1> ⚙️ &nbsp;Some Tools I Have Used and Learned</h1>
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
@@ -49,7 +49,7 @@ hobbies: ["Gaming", "Cinema", "Coding", "Sports", "Comedy"]
 
 <!-- 
 
-🌎
+🌎 🚀
 
 <h1> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h1>
 
