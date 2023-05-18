@@ -29,6 +29,8 @@ hobbies: ["Gaming", "Cinema", "Coding", "Sports", "Comedy"]
 <p align="center">
   <a href="https://www.linkedin.com/in/omer-kavak/"><img src="" alt="linkedin" height="50"/></a>
   <a href="https://www.hackerrank.com/omer_kavak"><img src="hackerrank.png" alt="hackerrank" height="50"/></a>
+  
+![hackerrank](https://github.com/omer-kavak/omer-kavak/assets/109809986/a7322653-bc15-40d5-bd6e-a63a0b9e16c6)
 
 </p>
 
