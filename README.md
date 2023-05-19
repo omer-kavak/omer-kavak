@@ -7,7 +7,7 @@
 <h3 align="center">Visitor count</h3>
 <br>
 <p align="center"> 
-  <img src="https://profile-counter.glitch.me/omer-kavak/count.svg" alt="VisitorCounter" height="50" color="blue"/>
+  <img src="https://profile-counter.glitch.me/omer-kavak/count.svg" alt="VisitorCounter" height="50" background-color="#FFF" />
 </p>
 <br>
 
