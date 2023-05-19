@@ -2,7 +2,7 @@
 
 <img src="https://github.com/omer-kavak/omer-kavak/assets/109809986/56b45903-82e2-4a39-a8b7-099fec1eeaff" alt="Greeting">
 
-<h1> 👨🏻‍💻 &nbsp;About Me</h1>
+<h2 align="center"> 👨🏻‍💻 &nbsp;About Me</h2>
 
 ```yaml
 name: Ömer Kavak
@@ -25,7 +25,7 @@ hobbies: ["Gaming", "Cinema", "Coding", "Sports", "Comedy"]
 
 ```
 
-<h1 align="center"> 🌎 &nbsp; Let's Connect </h1>
+<h2 align="center"> 🌎 &nbsp; Let's Connect </h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/omer-kavak/" target="_blank"><img src="https://github.com/omer-kavak/omer-kavak/assets/109809986/abec7879-6c2a-4e48-b4b4-ebf9bfe6c26b" alt="linkedin" height="50"/></a>
   <a href="https://www.hackerrank.com/omer_kavak" target="_blank"><img src="https://github.com/omer-kavak/omer-kavak/assets/109809986/a7322653-bc15-40d5-bd6e-a63a0b9e16c6" alt="hackerrank" height="50"/></a>
@@ -34,13 +34,13 @@ hobbies: ["Gaming", "Cinema", "Coding", "Sports", "Comedy"]
 
 </p>
 
-<h1> 📈 &nbsp;Stats </h1>
+<h2 align="center"> 📈 &nbsp;My Stats</h2>
 
 | <a href="https://github.com/omer-kavak/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=omer-kavak&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="" /></a> | <a href="https://github.com/omer-kavak/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omer-kavak&layout=compact&theme=transparent&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
-<h1> ⚙️ &nbsp;Tools I Have Used, Learned and Still Learning</h1>
+<h2 align="center"> ⚙️ &nbsp;Tools I Have Used, Learned and Still Learning</h2>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
@@ -60,7 +60,7 @@ hobbies: ["Gaming", "Cinema", "Coding", "Sports", "Comedy"]
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>
 </p>
 
-<h1> 📈 &nbsp;My GitHub History!</h1>
+<h2 align="center"> 📈 &nbsp;My GitHub History!</h2>
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
