@@ -3,7 +3,7 @@
 <img src="https://github.com/omer-kavak/omer-kavak/assets/109809986/56b45903-82e2-4a39-a8b7-099fec1eeaff" alt="Greeting">
 
 
-<h1 align="center"> 👨🏻‍💻 About Me</h1>
+<h1 align="center"> 👨🏻‍💻 &nbsp;About Me</h1>
 
 ```yaml
 name: Ömer Kavak
@@ -26,7 +26,7 @@ hobbies: ["Gaming", "Cinema", "Coding", "Sports", "Comedy"]
 
 ```
 
-<h1 align="center"> 🌎 &nbsp; Let's Connect </h1>
+<h1 align="center"> 🌎 &nbsp;Let's Connect </h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/omer-kavak/"><img src="resources/linkedin.png" alt="linkedin" height="50"/></a>
   <a href="https://www.hackerrank.com/omer_kavak"><img src="resources/hackerrank.png" alt="hackerrank" height="50"/></a>
