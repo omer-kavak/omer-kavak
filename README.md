@@ -3,7 +3,7 @@
 <img src="https://github.com/omer-kavak/omer-kavak/assets/109809986/56b45903-82e2-4a39-a8b7-099fec1eeaff" alt="Greeting">
 
 
-<h1 align="center"> 👨🏻‍💻 &nbsp;About Me</h1>
+<h1 align="center"> 👨🏻‍💻 About Me</h1>
 
 ```yaml
 name: Ömer Kavak
