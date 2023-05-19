@@ -2,6 +2,11 @@
 
 <img src="https://github.com/omer-kavak/omer-kavak/assets/109809986/56b45903-82e2-4a39-a8b7-099fec1eeaff" alt="Greeting">
 
+<br><br>
+
+<p align="center">
+![Visitor Count](https://profile-counter.glitch.me/{omer-kavak}/count.svg)
+</p>
 <h1 align="center"> 👨🏻‍💻 &nbsp;About Me</h1>
 
 ```yaml
