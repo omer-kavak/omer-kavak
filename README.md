@@ -2,14 +2,6 @@
 
 <img src="https://github.com/omer-kavak/omer-kavak/assets/109809986/56b45903-82e2-4a39-a8b7-099fec1eeaff" alt="Greeting">
 
-<br>
-
-<h3 align="center">Visitor count</h3>
-<br>
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/omer-kavak/count.svg" alt="VisitorCounter" height="50" background-color="#FFF" />
-</p>
-<br>
 
 <h1 align="center"> 👨🏻‍💻 &nbsp;About Me</h1>
 
