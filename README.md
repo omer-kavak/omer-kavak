@@ -6,7 +6,7 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/omer-kavak/count.svg" alt="VisitorCounter" width="50" height="50" color="blue"/>
+  <img src="https://profile-counter.glitch.me/omer-kavak/count.svg" alt="VisitorCounter" height="50" color="blue"/>
 </p>
 
 <h1 align="center"> 👨🏻‍💻 &nbsp;About Me</h1>
