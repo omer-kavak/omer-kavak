@@ -4,8 +4,8 @@
 
 <br><br>
 
-<h5 align="center">Visitor count</h5>
-<br><br>
+<h3 align="center">Visitor count</h3>
+<br>
 
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/omer-kavak/count.svg" alt="VisitorCounter" height="50" color="blue"/>
