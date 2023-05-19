@@ -4,9 +4,8 @@
 
 <br><br>
 
-<p align="center">
 ![Visitor Count](https://profile-counter.glitch.me/{omer-kavak}/count.svg)
-</p>
+
 <h1 align="center"> 👨🏻‍💻 &nbsp;About Me</h1>
 
 ```yaml
