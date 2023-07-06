@@ -41,6 +41,12 @@ hobbies: ["Gaming", "Cinema", "Coding", "Sports", "Comedy"]
 | ------------- | ------------- |
 
 
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> 
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+
 <br><br>
 <h1 align="center"> ⚙️ &nbsp;Tools I Have Used, Learned and Still Learning</h1>
 <p align="center">
