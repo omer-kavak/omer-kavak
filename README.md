@@ -36,10 +36,9 @@ hobbies: ["Gaming", "Cinema", "Coding", "Sports", "Comedy"]
 
 <h1 align="center"> 📈 &nbsp;My Stats</h1>
 
-|<a href="https://github.com/omer-kavak/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=omer-kavak&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="" /></a> |
-<a href="https://github.com/omer-kavak/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omer-kavak&layout=compact&theme=transparent&hide_border=true" /></a> |
+| <a href="https://github.com/omer-kavak/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=omer-kavak&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="" /></a> |
+<a href="https://github.com/omer-kavak/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omer-kavak&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
-
 
 
 <br><br>
