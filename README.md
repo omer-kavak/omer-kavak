@@ -2,6 +2,9 @@
 
 <img src="https://github.com/omer-kavak/omer-kavak/assets/109809986/56b45903-82e2-4a39-a8b7-099fec1eeaff" alt="Greeting">
 
+![omerkavak](https://github.com/omer-kavak/omer-kavak/assets/109809986/526d4c6b-e60f-4957-901b-e5a3d685b89d)
+
+
 
 <h1 align="center"> 👨🏻‍💻 &nbsp;About Me</h1>
 
