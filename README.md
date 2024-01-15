@@ -17,8 +17,9 @@ education:
 fields_of_interests:
   [
     "Web Development",
-    "Game Development",
+    "Artificial Intelligence",
     "Machine Learning",
+    "Data Science",
     "UI/UX"
   ]
   
